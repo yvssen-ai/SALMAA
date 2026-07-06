@@ -10,7 +10,7 @@ const lobster = Lobster({
 });
 
 const LETTER_TEXT =
-  'Happy Birthday Salomtyy , I was hoping that we spend your birthday together but because you are "عاجزة" We can’t do that but i hope you get well soon baby... Enjoy your Birthday Saloma, Love u Babyy';
+  'Happy Birthday Salomtyy , Sorry baby im not the best one to make birthday surprises so i made what im good at , I was hoping that we spend your birthday together but because you are "عاجزة" We can’t do that but i hope you get well soon baby. TBH you are the most unexpected thing that happend in my whole life but at the same time there is nothing better than meeting you i hope we stick together till the end , I just wanna u to know that your the most perfect girl in the whole world and im so lucky to have you baby... Enjoy your Birthday Saloma, Love u Babyy Mwaaaaah';
 
 export default function Home() {
   const [started, setStarted] = useState(false);
