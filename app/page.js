@@ -310,7 +310,7 @@ export default function Home() {
         /* ❤️ FINAL QUESTION */
 <>
   <h1 className="text-4xl text-pink-600 text-center">
-    Do you want me in your life? ❤️
+    Firstly, Do you want me in your life? ❤️
   </h1>
 
   {/* NEW TEXT */}
